@@ -127,3 +127,17 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+books
+
+# ide files
+.idea
+
+config.yml
+
+# exclude images and books dirs
+books
+images
+
+# exclude book information
+book_info.json
